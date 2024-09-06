@@ -1,0 +1,79 @@
+
+/* * {
+    padding-left: 200px;
+    border:
+} */
+
+body {
+    background-color: rgba(251, 203, 100, 0.131);
+  }
+
+h1 {
+    color: yellow;
+    background-color: blue;
+}
+
+.description-list {
+    border: solid;
+    color: black;
+}
+
+a{
+    color:rgba(64, 0, 255, 0.915);
+ }
+
+h2 {
+    color: yellow;
+    background-color: blue;
+    width: 650px;
+}
+#fantastic-4 {
+    width: 650px;
+    border: solid;
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(68, 255, 30);
+    border-top-left-radius: 3%;
+  }
+.flex-container > li {
+    background-color: #966e1e; 
+    margin: 10px;
+    padding: 20px;
+    font-size: 16px;
+  }
+img {
+    border-radius: 70%;
+    border: 10px solid;
+}
+
+.links-fantastic-4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.9rem;
+    color: yellow;
+}
+
+#methods-description {
+    color: red;
+}
+
+/* .beta {
+    width: 300%;
+    color: chocolate;
+}
+
+#floated{
+    float: left;
+    width: 150px;
+    background: red;
+}
+
+#alfa {
+    color: brown;
+} */ */
+
+/* 
+Change the font of all headings - use an inbuilt CSS font for now
+Change the font size of all links
+Change the colour of the text in ordered and unordered lists */
